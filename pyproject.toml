@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8"
 Sphinx = "^6.1.2"
+furo = "^2022.12.7"
 
 
 [build-system]
