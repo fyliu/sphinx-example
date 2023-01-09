@@ -16,8 +16,8 @@ Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
    This project is under active development.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+
+   usage
 
 
 
